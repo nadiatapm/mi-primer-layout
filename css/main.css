@@ -99,6 +99,7 @@ hr{
 footer img{
 	width:100%;
 	margin:10px 10px;
+	padding:20px;
 
    
 }
@@ -120,6 +121,7 @@ h1{
 	margin-bottom:20px;
 }
 .titulo{
+	width:400px;
 	height:40px;
 	background-color:grey;
 	color:white;
